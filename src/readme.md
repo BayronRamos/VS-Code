@@ -8,4 +8,4 @@ encontró un de las palabras más oscuras de la lengua del
 latín, "consecteur", en un pasaje de Lorem Ipsum, y al seguir 
 leyendo distintos textos del latín, descubrió la fuente 
 indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.
-33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien 
+33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien
